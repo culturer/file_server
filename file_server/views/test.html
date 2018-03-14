@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>测试页面</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/"/>\
+    <style type="text/css">
+        .red{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="red">hello world</h1>
+    <button id="button">点击</button>      
+    <script src="file_test.html"></script>
+    <script>
+        var btn = document.getElementById('button');
+        btn.addEventListener("click",function () {
+            // body...
+            alert("你点击了按钮");
+        })
+    </script> 	
+</body>
+</html>

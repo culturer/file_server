@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimpleFilter LastSave="2018-02-24T16:14:03.9267785+08:00" ExtensionVersion="2.2.1.2">
+  <Settings FiltersEnabled="false">
+    <slHosts />
+    <bTrimSessions>false</bTrimSessions>
+    <iTrimTo>200</iTrimTo>
+    <iResponseType>0</iResponseType>
+    <bHideRSSPlatform>false</bHideRSSPlatform>
+    <bHideNonIE>false</bHideNonIE>
+    <bBreakPost>false</bBreakPost>
+    <bBreakQueryString>false</bBreakQueryString>
+    <bHideRedirects>false</bHideRedirects>
+    <bHideSuccess>false</bHideSuccess>
+    <bHide304>false</bHide304>
+    <bHide401>false</bHide401>
+    <bUseMinSize>false</bUseMinSize>
+    <bUseMaxSize>false</bUseMaxSize>
+    <iMinSize>0</iMinSize>
+    <iMaxSize>0</iMaxSize>
+    <bBlockScript>false</bBlockScript>
+    <bBlockImages>false</bBlockImages>
+    <bBlockFlash>false</bBlockFlash>
+    <bBlockCSS>false</bBlockCSS>
+    <iFilterActions>0</iFilterActions>
+    <bBreakContentType>false</bBreakContentType>
+    <sBreakContentType />
+    <bFlagRequestHeader>false</bFlagRequestHeader>
+    <sFlagRequestHeader />
+    <bDeleteRequestHeader>false</bDeleteRequestHeader>
+    <sDeleteRequestHeader />
+    <bSetRequestHeader>false</bSetRequestHeader>
+    <sSetRequestHeader />
+    <sSetRequestHeaderValue />
+    <bFlagSetCookie>false</bFlagSetCookie>
+    <bFlagResponseHeader>false</bFlagResponseHeader>
+    <sFlagResponseHeader />
+    <bDeleteResponseHeader>false</bDeleteResponseHeader>
+    <sDeleteResponseHeader />
+    <bSetResponseHeader>false</bSetResponseHeader>
+    <sSetResponseHeader />
+    <sSetResponseHeaderValue />
+  </Settings>
+</SimpleFilter>
